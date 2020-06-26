@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22266532512",
+    "firebase_url": "https://cashbook-88fbc.firebaseio.com",
+    "project_id": "cashbook-88fbc",
+    "storage_bucket": "cashbook-88fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22266532512:android:c744ba5747ebd100226fc5",
+        "android_client_info": {
+          "package_name": "com.example.dkdus.cashbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22266532512-v8inmlrm8596ehv8dr05i8b5atlqhqs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4t7kGkBWUNMqdtj2CRyvzTbUUWnWGeC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22266532512-v8inmlrm8596ehv8dr05i8b5atlqhqs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
