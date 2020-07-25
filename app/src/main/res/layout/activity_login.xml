@@ -9,7 +9,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center_vertical"
-    tools:context=".LoginActivity">
+    tools:context=".activity.LoginActivity">
 
          <EditText
              android:id="@+id/email_login"
