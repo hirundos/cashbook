@@ -95,8 +95,8 @@ class AddActivity : AppCompatActivity() {
                 val reference = firebaseDatabase.reference.child("users").child(mUser.uid).child(date).child(time)
                 reference.removeValue()
             }
-            val gointent = Intent(this@AddActivity, MainActivity::class.java)
-            startActivity(gointent)
+            val goIntent = Intent(this@AddActivity, MainActivity::class.java)
+            startActivity(goIntent)
         }
     }
 

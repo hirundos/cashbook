@@ -5,8 +5,6 @@ import android.os.Bundle
 import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
-import android.view.View
-import android.widget.ExpandableListView
 import androidx.appcompat.app.AppCompatActivity
 import com.example.dkdus.cashbook.ExpandAdapter
 import com.example.dkdus.cashbook.R
@@ -35,6 +33,7 @@ class MainActivity : AppCompatActivity(), GoogleApiClient.OnConnectionFailedList
     private var mGoogleSignInClient: GoogleSignInClient? = null
     private val TAG = this.javaClass.toString()
     private var adapter: ExpandAdapter? = null
+
     public override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
