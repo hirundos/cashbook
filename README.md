@@ -12,4 +12,4 @@
 
 |스크린샷|사용예시|  
 |--------|--------|
-|![Screenshot_13](https://user-images.githubusercontent.com/64885411/95820215-a91ae400-0d62-11eb-9606-c007463c779e.png)|![cashbook](https://user-images.githubusercontent.com/64885411/95817387-4888a880-0d5c-11eb-812b-2f772283019b.gif)|
+|![Screenshot_25](https://user-images.githubusercontent.com/64885411/95820324-dcf60980-0d62-11eb-9b55-8fc8af4dafe8.png)|![cashbook](https://user-images.githubusercontent.com/64885411/95821055-3579d680-0d64-11eb-9812-22b5e69f24b3.gif)|
